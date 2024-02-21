@@ -20,5 +20,8 @@
   "devDependencies": {
     "copyfiles": "^1.0.0",
     "d3": "^3.5.16"
+  },
+  "dependencies": {
+    "98.css": "^0.1.20"
   }
 }

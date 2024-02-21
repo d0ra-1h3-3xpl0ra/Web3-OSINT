@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"98.css@^0.1.20":
+  version "0.1.20"
+  resolved "https://registry.yarnpkg.com/98.css/-/98.css-0.1.20.tgz#c7eb89e7f54205ed38f86b3b6a323736abc7162d"
+  integrity sha512-9oM+AZMfxG59Zz+bnAjIxAX2AKnBPkEJjf84ATto0wUNdRPxV+jhov1rHKe/wl6D0giuWwY603RxwrVVG4v2sA==
+
 balanced-match@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.2.tgz#e83e3a7e3f300b34cb9d87f615fa0cbf357690ee"
